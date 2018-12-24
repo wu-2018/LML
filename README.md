@@ -1,2 +1,5 @@
 # LML
-Learning Machine Learning
+Learning Machine Learning  
+
+[Neural Network Basics](/nn_basics)  
+
